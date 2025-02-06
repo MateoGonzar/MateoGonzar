@@ -1,5 +1,5 @@
 ## 👋 Hi! My name is Mateo
-I'm a Computer Science engineer passionated in the technology and innovation. I've worked in different areas related to CS including IoT, AI, Cloud Computing, Software Developing, Tech Project Mangement, HCU etc. and I've used a lof of different technologies and programming languages like C, C++, JavaScript, PHP, but especially Python! 🐍 Check out more about it ⬇️
+I'm a Computer Science engineer passionated in the technology and innovation. I've worked in different areas related to CS including IoT, AI, Cloud Computing, Software Developing, Tech Project Mangement, HCI etc. and I've used a lof of different technologies and programming languages like C, C++, JavaScript, PHP, but especially Python! 🐍 Check out more about it ⬇️
 # 📈 GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGonzar)](https://github.com/anuraghazra/github-readme-stats)
 # 📫 Let's talk!
