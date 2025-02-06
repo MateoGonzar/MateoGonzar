@@ -4,7 +4,7 @@ I'm a Computer Science engineer passionated in the technology and innovation. I'
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGonzar)](https://github.com/anuraghazra/github-readme-stats)
 # 📫 Let's talk!
 - 💼 LinkedIn: www.linkedin.com/in/mateo-gonzar 
-- 🐦 X: @mateo_gonzar
+- ✖️ X: @mateo_gonzar
 - 📧 Email: mateogonzar@gmail.com
 ***
 ⭐️ Based on my projects and experience. Let's connect and collaborate on great ideas! 🚀
